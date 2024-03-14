@@ -10,4 +10,7 @@ public class TestAddition {
 		System.out.println("Addition value of 45 and 45:"+addition.add(45, 45));
 	
 	}
+	public void m1() {
+		System.out.println("Test Addition m1()....");
+	}
 }
